@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(create: 
     (context)=>MyAppState(),
     child: MaterialApp(
-      title: 'Flutter App',
+      title: 'Responsive Flutter App',
         theme: ThemeData(
           useMaterial3: true,
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepOrange),
