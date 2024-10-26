@@ -114,7 +114,7 @@ class FavoritesPage extends StatelessWidget {
     if (appState.favorite.isEmpty)
     {
       return Center(
-        child: Text("favorite is       empty" ,),
+        child: Text("favorite is empty" ,),
       );
     }
     return ListView(
