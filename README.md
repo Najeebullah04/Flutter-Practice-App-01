@@ -15,6 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+# Responsive flutter app 
+
 Some screen shots : 
 
 <p float="left">
@@ -25,4 +27,5 @@ Some screen shots :
   <img src="assets/images/3.jpg" width="400" />
   <img src="assets/images/4.jpg" width="400" />
   </p>
+  when mobile is rotated > responsive
   <img src="assets/images/5.jpg" width="600" />
