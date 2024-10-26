@@ -20,7 +20,9 @@ Some screen shots :
 <p float="left">
   <img src="assets/images/1.jpg" width="200" />
   <img src="assets/images/2.jpg" width="200" />
+  </p>
+  <p float="left">
   <img src="assets/images/3.jpg" width="200" />
   <img src="assets/images/4.jpg" width="200" />
+  </p>
   <img src="assets/images/5.jpg" width="200" />
-</p>
